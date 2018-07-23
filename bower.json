@@ -16,10 +16,10 @@
     "karma.conf.js"
   ],
   "dependencies": {
-    "angular": "~1.4.4"
+    "angular": "~1.4.4 || 1.7.x"
   },
   "devDependencies": {
-    "angular-mocks": "~1.4.4",
+    "angular-mocks": "~1.4.4 || 1.7.x",
     "jquery": "~2.2.2",
     "bootstrap": "~3.1.1",
     "angular-bootstrap": "~0.11.0",
